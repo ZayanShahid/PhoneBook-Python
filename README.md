@@ -1,2 +1,2 @@
 # PhoneBook-Python
-Phonebook with basic python.
+This Phonebook is in basic python and can be modified.
